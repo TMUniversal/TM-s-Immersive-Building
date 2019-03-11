@@ -26,7 +26,7 @@ optionsshaders.txt
 crafttweaker.log
 knownkeys.txt
 resources/mainmenu/*.old.png
-backups/
+config/jei/worldSettings.cfg
 shaderpacks/
 .mixin.out/audit/mixin_implementation_report.txt
 .mixin.out/audit/mixin_implementation_report.csv
