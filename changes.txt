@@ -1,0 +1,7 @@
+Updated Mods to latest versions
+
+- Chisels & Bits
+- FTB Library
+- FTB Utiliteis
+
+Removed Mods that were supposedly disabled.
