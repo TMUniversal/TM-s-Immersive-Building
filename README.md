@@ -8,14 +8,14 @@ This modpack is intended to be played in creative mode. No warranties will be ma
 
 With 50+ mods, **Immersive Building is not very lightweight.**
 
-* The [Twitch App](https://app.twitch.tv/) or [MultiMc](https://multimc.org/) to download it
-* At least 3-6GB of RAM allocated to the pack depending on texture pack size
-* A CPU
+-   The [Twitch App](https://app.twitch.tv/) or [MultiMc](https://multimc.org/) to download it
+-   At least 3-6GB of RAM allocated to the pack depending on texture pack size
+-   A CPU
 
 ## Notes
 
-* Choose the world type "Biomes o' Plenty" in single-player
-* [CurseForge page](https://minecraft.curseforge.com/projects/tms-immersive-building)
+-   Choose the world type "Biomes o' Plenty" in single-player
+-   [CurseForge page](https://minecraft.curseforge.com/projects/tms-immersive-building)
 
 ## Not actually Frequently Asked Questions
 
